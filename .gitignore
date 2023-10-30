@@ -1,0 +1,24 @@
+# Logs
+logs
+*.log
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Debug
+.DS_Store
+*.suo
+*.pdb
+*.idb
+*.ide
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.ntvs_analysis.dat
+*.njsproj
+*.sln
+*.sw*

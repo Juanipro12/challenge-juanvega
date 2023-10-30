@@ -1,0 +1,11 @@
+{
+  "name": "challenge",
+  "version": "0.0.1",
+  "description": "Challenge Juan Jose Vega",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "^9.1.3"
+  }
+}
