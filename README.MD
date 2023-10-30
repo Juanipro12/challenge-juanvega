@@ -11,9 +11,13 @@
 
 2. RUN 
    ```bash
-   npm install 
+   cd challenge-juanvega
 
 3. RUN 
+   ```bash
+   npm install 
+
+4. RUN 
    ```bash
    npm test
 
