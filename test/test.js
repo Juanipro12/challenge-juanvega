@@ -4,7 +4,7 @@ const Subject = require("../subject");
 const User = require("../user");
 const Alert = require("../alert");
 
-describe("Registro de Usuarios", () => {
+describe("Alert System", () => {
   it("Debería permitir registrar un usuario", () => {
     const alertSystem = new AlertSystem();
     alertSystem.registerUser("Usuario1");
